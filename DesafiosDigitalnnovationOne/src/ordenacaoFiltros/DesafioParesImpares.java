@@ -22,7 +22,7 @@ public class DesafioParesImpares {
                 int valor = Integer.parseInt(br.readLine());
                 list.add(valor);
             }
-            //continue a solucao de acordo com as notas do enunciado
+
             list.stream()
                     .filter(numero -> numero % 2 == 0)
                     .sorted()
