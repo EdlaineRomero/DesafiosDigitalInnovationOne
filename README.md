@@ -49,10 +49,11 @@ a lista acaba ficando extensa. Sua tarefa é melhorar o aplicativo de notas dese
 exclua os itens duplicados da lista de compras e que os ordene alfabeticamente.
 
 ##### Entrada   
-    A primeira linha de entrada contém um inteiro N (N < 100) com a quantidade de casos de teste que vem a seguir, 
-    ou melhor, a quantidade de listas de compras para organizar.         
+    A primeira linha de entrada contém um inteiro N (N < 100) com a quantidade de casos de teste que
+    vem a seguir, ou melhor, a quantidade de listas de compras para organizar.         
     Cada lista de compra consiste de uma única linha que contém de 1 a 1000 itens ou palavras 
-    compostas apenas de letras minúsculas (de 1 a 20 letras), sem acentos e separadas por     um espaço.
+    compostas apenas de letras minúsculas (de 1 a 20 letras), sem acentos e separadas por
+    um espaço.
 
 
 ##### Saída   
