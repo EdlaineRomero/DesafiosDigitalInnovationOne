@@ -15,7 +15,7 @@ public class DesafioParesImpares {
 
             int tamanho = Integer.parseInt(br.readLine());
 
-            List<Integer> list = new ArrayList<Integer>();
+                List<Integer> list = new ArrayList<Integer>();
 
             for(int i =0;i<tamanho;i++){
 
